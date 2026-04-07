@@ -27,17 +27,24 @@ above procedure is repeated for different IB constant values.
 Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
-# Circuit Diagram and Model Graph:
 
+# Circuit Diagram and Model Graph:
+![WhatsApp Image 2026-04-06 at 3 12 21 PM](https://github.com/user-attachments/assets/a4d871ae-fe75-4308-b3a1-fc9c057bd51d)
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/653b337d-1e37-4e59-b4ef-8cc6a6a56278" />
 
 
 # Tabular Column & Calculation:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/13e93095-8a62-4551-9b9e-dfd55b5e070e" />
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/70d10b14-e156-4e6a-ba7c-916bf0982907" />
 
 
 # Graph:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/340fa417-184f-400f-9e04-4f6e9c06c7b5" />
 
 
 # Result:
-
+The input and output characteristics of transistor in CE mode is drawn and the h parameters are calculated.
 
 
