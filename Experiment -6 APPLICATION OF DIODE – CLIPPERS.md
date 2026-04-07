@@ -11,6 +11,7 @@ To design and analyze diode clipper circuits
 4. Do a similar procedure for the given clipper circuits.
 
 # Circuit Diagram & Model Graph:
+![WhatsApp Image 2026-04-06 at 3 13 26 PM](https://github.com/user-attachments/assets/4e6d17ad-3b8d-45ca-bec2-72e388b599f8)
 
 
 # Tabular Column and Calculation:
