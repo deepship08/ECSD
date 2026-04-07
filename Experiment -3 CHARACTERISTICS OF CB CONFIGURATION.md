@@ -29,6 +29,6 @@ Formula:
 
 
 # Result:
-
+The input and output characteristics of a transistor in CB mode are drawn and h parameters are calculated.  
 
 
