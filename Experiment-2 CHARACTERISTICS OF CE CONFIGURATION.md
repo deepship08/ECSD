@@ -43,8 +43,11 @@ Formula:
 # Graph:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/340fa417-184f-400f-9e04-4f6e9c06c7b5" />
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/53fbc8d9-817d-4de5-a298-577d92c439c7" />
+
 
 # Result:
-The input and output characteristics of transistor in CE mode is drawn and the h parameters are calculated.
+
+![WhatsApp Image 2026-04-06 at 3 12 25 PM](https://github.com/user-attachments/assets/15404490-7bad-462b-a2f4-e0a303e24077)
 
 
